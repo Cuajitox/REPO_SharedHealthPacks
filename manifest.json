@@ -1,9 +1,9 @@
 {
-    "name": "TestMod",
-    "version_number": "1.1.0",
-    "website_url": "https://github.com/thunderstore-io",
-    "description": "This is a description for a mod. 250 characters max",
+    "name": "SharedHealthPacks",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Cuajitox/REPO_SharedHealthPacks",
+    "description": "HealthPacks now heals the whole team!",
     "dependencies": [
-        "MythicManiac-TestMod-1.1.0"
+        "BepInEx-BepInExPack-5.4.2100"
     ]
 }
